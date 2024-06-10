@@ -3,11 +3,12 @@ import type {ThemeOptions} from '@mui/material/styles';
 const themeOptions: ThemeOptions = {
   palette: {
     primary: {
-      main: '#663399',
+      main: '#2150DB',
     },
     secondary: {
-      main: '#f94034',
+      main: '#00DBAD',
     },
+
   },
   typography: {
     fontFamily: 'Raleway',

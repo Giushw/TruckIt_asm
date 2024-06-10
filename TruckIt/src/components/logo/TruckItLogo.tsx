@@ -20,7 +20,7 @@ const TruckItLogo: FC<TruckItLogoProps> = ({onClick, type}) => {
         },
       }}
       alt="The TruckIT logo"
-      src={type === 'light' ? './logo.png' : './logo_white.png'}
+      src={type === 'light' ? './assets/logo.svg' : './assets/logo_white.svg'}
       onClick={onClick}
     />
   )
